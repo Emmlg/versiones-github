@@ -14,3 +14,10 @@ git commit -m "comentario" --> guardamos la primera version con un comentario
 git commit am- "comentario" --> agregamos y guardamos el trabajo comentado
 git status -s ---> checamos el estatus de cada archivo
 git log --oneline  ---> checamos las versiones
+
+----------------------------------------------------------------------
+ 		COMANDOS PARA GITHUB
+git remote add origin URL  ---> nos sirve para unir nuestro repositorio en github con el local
+git push origin master ---> nos sirve para subir los documentos en el repositorio
+git push origin master --> solo colocamos eso para actualizar nuestro repositorio
+git pull origin master --> traemos lo que tenemos guardado en git hub
