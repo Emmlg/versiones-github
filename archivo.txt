@@ -6,3 +6,11 @@ que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del
 sistema operativo Linux, en 2005.
 
 
+----------------------------------------------------------------------------
+comandos de git basico hasta el momento
+git init --> inicializamos control de versiones
+git add ./(nombre) --> agregarmos al area de preparacion
+git commit -m "comentario" --> guardamos la primera version con un comentario
+git commit am- "comentario" --> agregamos y guardamos el trabajo comentado
+git status -s ---> checamos el estatus de cada archivo
+git log --oneline  ---> checamos las versiones
