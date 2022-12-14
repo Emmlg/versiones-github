@@ -5,4 +5,6 @@ del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento a
 que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del 
 sistema operativo Linux, en 2005.
 
-
+----
+comando para regresar al pasado, git checkout 'codigo a regresar', son comillas
+----
